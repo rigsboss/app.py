@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+pip install -U scikit-learn
 from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.model_selection import train_test_split
